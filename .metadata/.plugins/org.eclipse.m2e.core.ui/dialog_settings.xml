@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\workshop-sprinboot3-jpa-main"/>
 			<item value="C:\projetos\course"/>
 		</list>
 		<list key="projectNameTemplate">
